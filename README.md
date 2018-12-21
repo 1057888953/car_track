@@ -1,3 +1,2 @@
 # car_track TEST for dev
-- 列表1
-- 列表2 
+测试汉语支持
